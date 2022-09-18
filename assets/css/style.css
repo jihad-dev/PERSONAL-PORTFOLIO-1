@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
+body {
+background-color: rgb(0, 139, 139);
+}
+
+.REVIEWS{
+    background-color: rgb(0, 139, 139);
+}
+/* .reviews{
+    background-color: rgb(0, 139, 139);
+} */
+.hello{
+    width: 15%;
+    height: 7vh;
+    background-color: burlywood;
+    border-radius: 6px;
+    margin-left: 20px;
+    margin-top: 15px;
+   
+}
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+.shadow-effect:hover{
+    z-index: 1;
+    box-shadow: 0 8px 50px rgba(0, 0, 0, 0.467);
+    transform: scale(1.05);
+}
+
+.work-area{
+    margin-top: 70px;
+}
+
+
+
+
+.card-custom .card-custom-image {
+    overflow: hidden;
+}
+
+.card-custom .card-custom-image img {
+    transition: all 0.4s ease;
+   
+}
+
+.card-custom:hover .card-custom-image img {
+    transform: scale(1.1);
+   
+}
+/* FOOTER */
+
+
+/* //FOOTER */
